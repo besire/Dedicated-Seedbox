@@ -15,15 +15,15 @@
 	10.-x: 啓動 BBRx
 	11.-o: 自定義端口
 #### 範例
-`bash <(wget -qO- https://raw.githubusercontent.com/besire/Dedicated-Seedbox/main/Install.sh) -u jerry048 -p 1LDw39VOgors -c 3072 -q 4.3.9 -l v1.2.19 -v -x`
+`bash <(wget -qO- https://raw.githubusercontent.com/besire/Dedicated-Seedbox/main/Install.sh) -u jerry048 -p 1LDw39VOgors -c 2048 -q 4.3.9 -l v1.2.20 -v -o`
 
 ##### 解釋
 	1. 用戶名稱 是 jerry048
 	2. 密碼 是 1LDw39VOgors
-	3. 緩存大小 是 3GB
-	4. 安裝 qBittorrent 4.3.9 - libtorrent-v1.2.19
+	3. 緩存大小 是 2GB
+	4. 安裝 qBittorrent 4.3.9 - libtorrent-v1.2.120
 	6. 安裝 vertex
-	7. 啓動 BBRx
+	7. 自定義端口
 ## 支持平台
 	1. 系統
 		1. Debian 10+

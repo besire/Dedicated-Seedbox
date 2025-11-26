@@ -18,7 +18,7 @@ BBR v3 is currently unavailable
 	10.-x: Enable BBRx
 	11. Customize ports
 #### Example
-`bash <(wget -qO- https://raw.githubusercontent.com/besire/Dedicated-Seedbox/main/Install.sh) -u jerry048 -p 1LDw39VOgors -c 3072 -q 4.3.9 -l v1.2.19 -b -r -x`
+`bash <(wget -qO- https://raw.githubusercontent.com/besire/Dedicated-Seedbox/main/Install.sh) -u jerry048 -p 1LDw39VOgors -c 2048 -q 4.3.9 -l v1.2.20 -v -o`
 
 ##### Explanation
 	1. username is jerry048
